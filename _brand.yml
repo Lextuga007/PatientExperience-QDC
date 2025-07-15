@@ -54,12 +54,12 @@ color:
   background: white
   primary: blue
   secondary: grey-dark
-  tertiary: blue
+  tertiary: grey-pale
   success: green
   danger: red
   warning: yellow-warm
   info: blue-light
-  light: grey-pale
+  light: blue
   dark: grey-dark
 
 typography:
