@@ -1,6 +1,5 @@
 ---
 pagetitle: "PatientExperience-QDC"
-css: index.css
 editor: source
 description: |
   Website for the NHS England Patient Experience Qualitative Data Categorisation project
