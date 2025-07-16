@@ -9,7 +9,7 @@
 <link>https://The-Strategy-Unit.github.io/PatientExperience-QDC/updates.html</link>
 <atom:link href="https://The-Strategy-Unit.github.io/PatientExperience-QDC/updates.xml" rel="self" type="application/rss+xml"/>
 <description>Website for the NHS England funded Patient Experience Qualitative Data Categorisation project</description>
-<generator>quarto-1.7.31</generator>
+<generator>quarto-1.7.32</generator>
 <lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Project conclusion</title>
@@ -63,7 +63,7 @@
  ]]></description>
   <category>news</category>
   <guid>https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/update-23-10-13/</guid>
-  <pubDate>Thu, 12 Oct 2023 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
   <media:content url="https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/update-23-10-13/ensemble.png" medium="image" type="image/png" height="152" width="144"/>
 </item>
 <item>
@@ -93,7 +93,7 @@
  ]]></description>
   <category>news</category>
   <guid>https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/update-23-10-12/</guid>
-  <pubDate>Wed, 11 Oct 2023 23:00:00 GMT</pubDate>
+  <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
   <media:content url="https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/update-23-10-12/slow_API.png" medium="image" type="image/png" height="120" width="144"/>
 </item>
 <item>
@@ -139,7 +139,7 @@
   <category>news</category>
   <category>dashboard</category>
   <guid>https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/dashboard-update-23-07-18/</guid>
-  <pubDate>Mon, 17 Jul 2023 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
   <media:content url="https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/dashboard-update-23-07-18/images/landing_page.png" medium="image" type="image/png" height="73" width="144"/>
 </item>
 <item>
@@ -188,7 +188,7 @@
  ]]></description>
   <category>news</category>
   <guid>https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/upset_plot-23-07-18/</guid>
-  <pubDate>Mon, 17 Jul 2023 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
   <media:content url="https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/upset_plot-23-07-18/images/annotated_Upset_plot.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -234,7 +234,7 @@
  ]]></description>
   <category>news</category>
   <guid>https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/update-23-05-31/</guid>
-  <pubDate>Tue, 30 May 2023 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
   <media:content url="https://The-Strategy-Unit.github.io/PatientExperience-QDC/posts/update-23-05-31/px_diagram.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
