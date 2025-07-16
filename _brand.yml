@@ -1,10 +1,7 @@
 meta:
   name:
-    short: NHSR
-    full: NHS-R Community
-  link:
-    home: https://nhsrcommunity.com/
-    brand-guidelines: https://nhsrway.nhsrcommunity.com/style-guides.html#branding
+    short: NHS
+    full: NHS
 
 color:
   # NHS-R Community uses the NHS England colour palette
