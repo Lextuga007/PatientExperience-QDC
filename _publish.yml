@@ -1,0 +1,3 @@
+- source: project
+  gh-pages:
+    - url: https://lextuga007.github.io/PatientExperience-QDC
